@@ -4,6 +4,7 @@ enableToc: false
 ---
 
 This is my text
+here is my page [[My page]]
 
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 
