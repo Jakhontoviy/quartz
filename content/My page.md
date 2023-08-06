@@ -1,11 +1,14 @@
 
 Here is my own page.
 
-![[CoverShape.png]]
+![[_imgs/CoverShape.png]]
 
->[!top]
+>[!top] Notes
+>
 >here is a tips
 
 #new
 
 # Topic
+
+Just text here
