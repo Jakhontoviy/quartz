@@ -1,9 +1,9 @@
 
 Here is my own page.
 
-![[_imgs/CoverShape.png]]
+![[Attachments/2023-08-06_22h33_17.png]]
 
->[!top] Notes
+>[!notes] Notes
 >
 >here is a tips
 
