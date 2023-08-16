@@ -6,4 +6,3 @@ tags:
 - Installation
 ---
 
-## Назад:
